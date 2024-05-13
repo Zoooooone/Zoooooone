@@ -16,3 +16,47 @@ This is a master student from China, now studying in UTokyo.
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Zoooooone&private=true&theme=tokyonight" height="195">
 </a>
+
+## Wakatime Stats
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 423.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 95 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+🌆 Daytime                91 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌃 Evening                159 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌙 Night                  88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     25 mins             ██████████████░░░░░░░░░░░   57.86 % 
+Python                   13 mins             ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+
+ Last Updated on 13/05/2024 23:23:24 UTC
+<!--END_SECTION:waka-->
