@@ -20,15 +20,13 @@ This is a master student from China, now studying in UTokyo.
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 423.6 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2024
+> 🏆 96 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,10 +37,21 @@ This is a master student from China, now studying in UTokyo.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-🌆 Daytime                91 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌞 Morning                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌆 Daytime                92 commits          ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
 🌃 Evening                159 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
 🌙 Night                  88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Tuesday                  72 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Thursday                 55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Saturday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Sunday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 ```
 
 
@@ -58,5 +67,5 @@ TeX                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/05/2024 23:23:24 UTC
+ Last Updated on 14/05/2024 04:37:55 UTC
 <!--END_SECTION:waka-->
