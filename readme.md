@@ -20,7 +20,7 @@ This is a master student from China, now studying in UTokyo.
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,7 +32,7 @@ This is a master student from China, now studying in UTokyo.
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -67,5 +67,5 @@ Markdown                 10 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/05/2024 23:45:55 UTC
+ Last Updated on 16/05/2024 08:25:24 UTC
 <!--END_SECTION:waka-->
