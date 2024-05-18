@@ -17,7 +17,7 @@ This is a master student from China, now studying in UTokyo.
 <img src="https://github-readme-stats.vercel.app/api?username=Zoooooone&private=true&theme=tokyonight" height="195">
 </a>
 
-## Wakatime Stats
+## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2049%20mins-blue)
