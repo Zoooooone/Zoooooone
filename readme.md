@@ -20,7 +20,7 @@ This is a master student from China, now studying in UTokyo.
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,8 +36,8 @@ This is a master student from China, now studying in UTokyo.
 Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Friday                   54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
@@ -55,5 +55,5 @@ CSV                      24 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/07/2024 06:38:08 UTC
+ Last Updated on 06/07/2024 05:12:33 UTC
 <!--END_SECTION:waka-->
