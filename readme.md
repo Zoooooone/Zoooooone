@@ -20,7 +20,7 @@ This is a master student from China, now studying in UTokyo.
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2037%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -47,11 +47,11 @@ Sunday                   44 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 23 mins             █████████████████░░░░░░░░   66.14 % 
-Python                   11 mins             ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Markdown                 26 mins             █████████████████░░░░░░░░   69.44 % 
+Python                   11 mins             ████████░░░░░░░░░░░░░░░░░   30.53 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 04/08/2024 05:12:16 UTC
+ Last Updated on 05/08/2024 05:14:31 UTC
 <!--END_SECTION:waka-->
