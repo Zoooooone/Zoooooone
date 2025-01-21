@@ -20,7 +20,7 @@ This is a master student from China, now studying in UTokyo.
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -55,5 +55,5 @@ YAML                     26 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/01/2025 13:53:07 UTC
+ Last Updated on 21/01/2025 05:14:08 UTC
 <!--END_SECTION:waka-->
