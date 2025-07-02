@@ -19,6 +19,8 @@ Hi, I'm Ziheng, a machine learning engineer at ExaWizards.
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2029%20mins-blue)
 
- Last Updated on 01/07/2025 05:07:22 UTC
+
+ Last Updated on 02/07/2025 05:06:12 UTC
 <!--END_SECTION:waka-->
