@@ -9,36 +9,36 @@ Hi, I'm Ziheng, a machine learning engineer at ExaWizards.
 - Personal Blog: **[Zone's Blog](https://zoooooone.github.io/)**
 
 <a href="https://github.com/Zoooooone">
-  <img src="https://github-readme-stats-5bu9j2z5i-zoooooones-projects.vercel.app/api/top-langs/?username=Zoooooone&langs_count=8&layout=compact&theme=tokyonight" height="195">
+  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api/top-langs/?username=Zoooooone&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="195">
 </a>
 &ensp;
 <a href="https://github.com/Zoooooone">
-  <img src="https://github-readme-stats-5bu9j2z5i-zoooooones-projects.vercel.app/api?username=Zoooooone&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="195">
+  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api?username=Zoooooone&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" height="195">
 </a>
 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2020%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-🌆 Daytime                206 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-🌃 Evening                333 commits         ██████████░░░░░░░░░░░░░░░   39.93 % 
-🌙 Night                  191 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌞 Morning                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌆 Daytime                224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌃 Evening                439 commits         ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌙 Night                  306 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Wednesday                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Thursday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Friday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Saturday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Sunday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Tuesday                  169 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Friday                   104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Saturday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Sunday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 
 
@@ -46,13 +46,13 @@ Sunday                   89 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 mins             ████████████████████░░░░░   79.97 % 
-Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-TeX                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   12 hrs 44 mins      ██████████████████████░░░   87.36 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Docker                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 
- Last Updated on 30/04/2025 05:04:35 UTC
+ Last Updated on 26/08/2025 05:05:04 UTC
 <!--END_SECTION:waka-->
