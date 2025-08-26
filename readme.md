@@ -9,12 +9,13 @@ Hi, I'm Ziheng, a machine learning engineer at ExaWizards.
 - Personal Blog: **[Zone's Blog](https://zoooooone.github.io/)**
 
 <a href="https://github.com/Zoooooone">
-  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api/top-langs/?username=Zoooooone&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="195">
+  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api/top-langs/?username=Zoooooone&langs_count=8&layout=compact&theme=tokyonight&hide=jupyter%20notebook,tex,bibtex%20style,makefile,r,scss,html,css&cache_seconds=1800&v=2" height="195">
 </a>
 &ensp;
 <a href="https://github.com/Zoooooone">
-  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api?username=Zoooooone&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=1" height="195">
+  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api?username=Zoooooone&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=2" height="195">
 </a>
+
 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
@@ -54,5 +55,5 @@ TOML                     10 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/08/2025 13:25:45 UTC
+ Last Updated on 26/08/2025 13:28:12 UTC
 <!--END_SECTION:waka-->
