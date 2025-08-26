@@ -13,7 +13,7 @@ Hi, I'm Ziheng, a machine learning engineer at ExaWizards.
 </a>
 &ensp;
 <a href="https://github.com/Zoooooone">
-  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api?username=Zoooooone&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" height="195">
+  <img src="https://github-readme-stats-tau-ten-86.vercel.app/api?username=Zoooooone&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=1" height="195">
 </a>
 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
