@@ -41,7 +41,7 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,11 +68,12 @@ Sunday                   215 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              ███████████████████░░░░░░   74.09 % 
+Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
 ```
 
 
- Last Updated on 20/02/2026 05:25:46 UTC
+ Last Updated on 21/02/2026 05:19:51 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
