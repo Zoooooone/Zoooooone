@@ -41,42 +41,10 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2047%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-🌆 Daytime                229 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 Evening                403 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌙 Night                  271 commits         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Tuesday                  168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Wednesday                170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Sunday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2018%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 18 hrs 32 mins      █████████████████░░░░░░░░   69.77 % 
-Python                   4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-TSV                      2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-```
-
-
- Last Updated on 24/06/2026 06:24:17 UTC
+ Last Updated on 25/06/2026 06:26:32 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
