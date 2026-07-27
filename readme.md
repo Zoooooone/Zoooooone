@@ -41,26 +41,26 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-🌆 Daytime                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌃 Evening                424 commits         ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌙 Night                  306 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌆 Daytime                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+🌃 Evening                430 commits         ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌙 Night                  310 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Wednesday                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Sunday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 ```
 
 
@@ -68,13 +68,13 @@ Sunday                   172 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    44 mins             ██████████████░░░░░░░░░░░   56.40 % 
-Python                   21 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Markdown                 1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.96 % 
+Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Other                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 ```
 
 
- Last Updated on 26/07/2026 06:03:33 UTC
+ Last Updated on 27/07/2026 06:11:38 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
