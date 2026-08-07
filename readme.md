@@ -41,68 +41,8 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2048%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-🌆 Daytime                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-🌃 Evening                430 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌙 Night                  316 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-Python                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Other                    1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs (97.69%)
-
-✍️ 890 lines written by AI, 26 lines written by hand (97.16% AI-written)
-
-🔤 152,965,434 Input Tokens, 759,244 Output Tokens
-
-💵 $562.73 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 259 AI Prompts
-
-Sonnet                   1,001 lines         █████████████████████████   99.90 % 
-GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.16% of written lines came from AI
-📚 Verbose Prompter — average 5,474 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 20.54% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/08/2026 06:00:55 UTC
+ Last Updated on 07/08/2026 05:34:04 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
