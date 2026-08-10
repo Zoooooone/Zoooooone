@@ -45,61 +45,8 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2050%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-🌆 Daytime                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-🌃 Evening                430 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌙 Night                  316 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    1 hr 6 mins         █████████████████░░░░░░░░   68.86 % 
-Markdown                 30 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 37 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 37,867,336 Input Tokens, 241,136 Output Tokens
-
-💵 $214.79 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 38 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 24 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
-
- Last Updated on 09/08/2026 05:24:14 UTC
+ Last Updated on 10/08/2026 05:33:11 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
