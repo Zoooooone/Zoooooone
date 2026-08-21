@@ -41,9 +41,9 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -70,17 +70,33 @@ Sunday                   178 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (60.02%)
+
+✍️ 2 lines written by AI, 1,104 lines written by hand (0.18% AI-written)
+
+🔤 22,643 Input Tokens, 4,210 Output Tokens
+
+💵 $0.14 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Sonnet                   2 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 05:12:20 UTC
+ Last Updated on 21/08/2026 05:13:15 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
