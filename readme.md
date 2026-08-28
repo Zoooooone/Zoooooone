@@ -45,58 +45,8 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2053%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-🌆 Daytime                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-🌃 Evening                430 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌙 Night                  316 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 mins (60.02%)
-
-✍️ 2 lines written by AI, 1,104 lines written by hand (0.18% AI-written)
-
-🔤 22,643 Input Tokens, 4,210 Output Tokens
-
-💵 $0.14 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Sonnet                   2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.82% of changed lines were hand-edited
-```
-
-
- Last Updated on 27/08/2026 07:35:57 UTC
+ Last Updated on 28/08/2026 07:38:41 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
