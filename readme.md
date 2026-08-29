@@ -45,8 +45,42 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2053%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 28/08/2026 07:38:41 UTC
+```text
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌆 Daytime                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌃 Evening                430 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
+🌙 Night                  316 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 29/08/2026 05:11:04 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
