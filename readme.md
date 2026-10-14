@@ -41,9 +41,9 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -70,38 +70,38 @@ Sunday                   182 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-JavaScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-CSS                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+TypeScript               5 hrs               ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+Markdown                 3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Astro                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+CSS                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 8 mins (96.89%)
+⏱ AI Coding Time: 14 hrs 45 mins (88.07%)
 
-✍️ 13,001 lines written by AI, 217 lines written by hand (98.36% AI-written)
+✍️ 13,665 lines written by AI, 314 lines written by hand (97.75% AI-written)
 
-🔤 3,858,238 Input Tokens, 1,753,987 Output Tokens
+🔤 5,769,404 Input Tokens, 1,975,902 Output Tokens
 
-💵 $153.42 Estimated AI Cost This Week
+💵 $177.74 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 236 AI Prompts
+🧠 18 AI Sessions, 302 AI Prompts
 
-Sonnet                   13,696 lines        █████████████████████████   99.98 % 
-GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Sonnet                   13,856 lines        ████████████████████████░   96.46 % 
+GPT                      509 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.36% of written lines came from AI
-📝 Concise Prompter — average 321 characters per prompt
+🤖 AI-Driven — 97.75% of written lines came from AI
+📝 Concise Prompter — average 314 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 1.61% of changed lines were hand-edited
+🚀 High AI Trust — 2.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 04:49:16 UTC
+ Last Updated on 14/10/2026 05:12:43 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
