@@ -48,21 +48,21 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-🌆 Daytime                264 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-🌃 Evening                450 commits         ██████████░░░░░░░░░░░░░░░   39.65 % 
-🌙 Night                  316 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌆 Daytime                264 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+🌃 Evening                455 commits         ██████████░░░░░░░░░░░░░░░   39.91 % 
+🌙 Night                  316 commits         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Tuesday                  185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Saturday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Sunday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Tuesday                  185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Wednesday                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Saturday                 159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Sunday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 ```
 
 
@@ -70,38 +70,17 @@ Sunday                   182 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-TypeScript               1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-JSON                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Astro                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (68.86%)
-
-✍️ 664 lines written by AI, 97 lines written by hand (87.25% AI-written)
-
-🔤 1,911,166 Input Tokens, 221,915 Output Tokens
-
-💵 $40.28 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 66 AI Prompts
-
-GPT                      506 lines           ████████████████░░░░░░░░░   63.89 % 
-Sonnet                   286 lines           █████████░░░░░░░░░░░░░░░░   36.11 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 87.25% of written lines came from AI
-📝 Concise Prompter — average 290 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 19.17% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/10/2026 05:12:21 UTC
+ Last Updated on 22/10/2026 05:12:42 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
