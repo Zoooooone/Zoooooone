@@ -45,64 +45,8 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2055%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 Daytime                285 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌃 Evening                536 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
-🌙 Night                  345 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   230 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Tuesday                  203 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Saturday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 11 hrs 52 mins      ████████████████░░░░░░░░░   65.98 % 
-Python                   2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-TSV                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 hrs 4 mins (94.84%)
-
-✍️ 11,871 lines written by AI, 242 lines written by hand (98.0% AI-written)
-
-🔤 26,578,676 Input Tokens, 4,200,416 Output Tokens
-
-💵 $388.49 Estimated AI Cost This Week
-
-🧠 35 AI Sessions, 418 AI Prompts
-
-Opus                     5,591 lines         ███████████░░░░░░░░░░░░░░   44.30 % 
-Sonnet                   5,504 lines         ███████████░░░░░░░░░░░░░░   43.61 % 
-GPT                      1,525 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.0% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 2.12% of changed lines were hand-edited
-```
-
-
- Last Updated on 12/11/2026 05:08:53 UTC
+ Last Updated on 13/11/2026 05:08:50 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
