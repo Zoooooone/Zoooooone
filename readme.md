@@ -48,21 +48,21 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 Daytime                285 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌃 Evening                536 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
-🌙 Night                  345 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌞 Morning                108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+🌆 Daytime                286 commits         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+🌃 Evening                538 commits         ███████████░░░░░░░░░░░░░░   42.13 % 
+🌙 Night                  345 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   230 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Tuesday                  203 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Saturday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Monday                   230 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Tuesday                  203 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Saturday                 183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 ```
 
 
@@ -70,39 +70,39 @@ Sunday                   189 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 27 mins       ████████████████░░░░░░░░░   63.60 % 
-Python                   1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-TSV                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Markdown                 6 hrs 2 mins        ███████████████░░░░░░░░░░   58.25 % 
+TSV                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Python                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 36 mins (94.71%)
+⏱ AI Coding Time: 9 hrs 55 mins (95.69%)
 
-✍️ 10,610 lines written by AI, 187 lines written by hand (98.27% AI-written)
+✍️ 8,552 lines written by AI, 16 lines written by hand (99.81% AI-written)
 
-🔤 10,957,841 Input Tokens, 1,995,173 Output Tokens
+🔤 9,121,044 Input Tokens, 1,601,696 Output Tokens
 
-💵 $211.03 Estimated AI Cost This Week
+💵 $175.51 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 319 AI Prompts
+🧠 20 AI Sessions, 258 AI Prompts
 
-Opus                     5,589 lines         █████████████░░░░░░░░░░░░   50.19 % 
-Sonnet                   5,041 lines         ███████████░░░░░░░░░░░░░░   45.27 % 
-GPT                      506 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Sonnet                   5,029 lines         ██████████████░░░░░░░░░░░   57.05 % 
+Opus                     3,356 lines         ██████████░░░░░░░░░░░░░░░   38.07 % 
+GPT                      430 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.27% of written lines came from AI
-📝 Concise Prompter — average 315 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.82% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📝 Concise Prompter — average 332 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/11/2026 05:08:15 UTC
+ Last Updated on 15/11/2026 05:08:16 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
