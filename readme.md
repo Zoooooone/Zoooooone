@@ -41,12 +41,68 @@ Hi, I'm Ziheng — a Machine Learning Engineer at ExaWizards, building scalable 
 ## [Wakatime Stats](https://wakatime.com/@Zoooooone)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-216%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%205%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+🌆 Daytime                312 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+🌃 Evening                547 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
+🌙 Night                  361 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Tuesday                  214 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Wednesday                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Saturday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Sunday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+```
 
 
- Last Updated on 20/11/2026 05:08:55 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 11 hrs 22 mins      ██████████████████░░░░░░░   70.07 % 
+TSV                      2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 9 mins (93.37%)
+
+✍️ 9,749 lines written by AI, 414 lines written by hand (95.93% AI-written)
+
+🔤 16,682,374 Input Tokens, 2,639,627 Output Tokens
+
+💵 $271.45 Estimated AI Cost This Week
+
+🧠 31 AI Sessions, 447 AI Prompts
+
+Sonnet                   8,672 lines         █████████████████████░░░░   83.92 % 
+GPT                      1,036 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Opus                     626 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.93% of written lines came from AI
+📄 Detailed Prompter — average 613 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 3.98% of changed lines were hand-edited
+```
+
+
+ Last Updated on 20/11/2026 16:08:00 UTC
 <!--END_SECTION:waka-->
 
 ## Personal Links
